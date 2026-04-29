@@ -1,6 +1,4 @@
-### 👋 Hi, This is A.R Mir!
-
-# 💫 About Me:
+# 💫 Hi, This is A.R Mir!:
 👀 I’m a Data Science and AI Trainer<br>🌱 I’m actively looking for opportunities in Data Science and Generative AI roles.<br>💞️ I’m looking to collaborate on AI-driven projects, data analytics tools, and innovative cloud solutions.<br>📫 Feel free to reach out to me via LinkedIn or Email.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I believe AI can revolutionize the healthcare industry, and I’m committed to contributing to that change.<br>
 
 ## 🌐 Socials:
